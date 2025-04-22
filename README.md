@@ -1,6 +1,6 @@
-# P1_TELAS_NUBANK
+# 📱 P1_TELAS_NUBANK
 
-Este repósitorio é para guardar a protatipagem das telas do nubank, feita no android studio.
+Este repositório tem como objetivo armazenar a prototipagem das telas do Nubank, desenvolvida no Android Studio.
 
 
 Aluno: José Vitor Salles Queiroz
